@@ -1,2 +1,2 @@
-# -agnualr-create-a-landing-page
+# -angular-create-a-landing-page
 fully coded landing page on angular
